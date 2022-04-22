@@ -1,6 +1,4 @@
-
 // Variables: tipos de variables
-
 // * const: No se puede modificar
 const name = 'Pedro'
 const age = 19
